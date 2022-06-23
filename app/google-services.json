@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97430427371",
+    "project_id": "rochak-masale-fsm",
+    "storage_bucket": "rochak-masale-fsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97430427371:android:f5d2d49f617309be0dd0ae",
+        "android_client_info": {
+          "package_name": "com.rochakmasalefsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97430427371-glck320cssh7s3mm4b3edrmtfhmlnrjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe0DYM9Ih_xXrO12lf0j7Wn3qNASVWfZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97430427371-glck320cssh7s3mm4b3edrmtfhmlnrjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
