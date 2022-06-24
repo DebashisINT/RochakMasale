@@ -1564,7 +1564,7 @@
     <string name="camera_back" translatable="false">Back Camera :\u0020 </string>
     <string name="camera_front" translatable="false">Front Camera :\u0020 </string>
     <string name="historys" translatable="false">Historys</string>
-    <string name="firebase_key" translatable="false">key=AAAAIoWfCpc:APA91bEMOPyfjsyziPC1WYJiPHjzdmTQJmAOKP0fM24iXI9BgrmyhH4uLY6Jd-6Lpjp8mvSdpSp-zm20ApTOYQ3Ean4m6LicJ5CoECS_v5u2PUAwA8E6FLsu2ZC6_WxuSYnTTLzlUi4E</string>
-
+<!--    <string name="firebase_key" translatable="false">key=AAAAIoWfCpc:APA91bEMOPyfjsyziPC1WYJiPHjzdmTQJmAOKP0fM24iXI9BgrmyhH4uLY6Jd-6Lpjp8mvSdpSp-zm20ApTOYQ3Ean4m6LicJ5CoECS_v5u2PUAwA8E6FLsu2ZC6_WxuSYnTTLzlUi4E</string>-->
+    <string name="firebase_key" translatable="false">key=AAAAFq9OVus:APA91bFpFqaWYCM_2auTpKkIqiC9HBlyJWvpLyZtD7LYkURsoh5rKwhzIBHw_DqvMWNC1EF8XTOXdAOsBs0V6JoZe_eUGe1mJpL6mPvNs3nJwx7DACzV8y9UL8mz5Zawea-vQYptfZ3v</string>
 
 </resources>
