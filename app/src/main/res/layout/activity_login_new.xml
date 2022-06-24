@@ -46,13 +46,12 @@
 
                 <ImageView
                     android:id="@+id/logo_new"
-                    android:layout_width="@dimen/_155sdp"
-                    android:layout_height="@dimen/_128sdp"
+                    android:layout_width="@dimen/_175sdp"
+                    android:layout_height="@dimen/_138sdp"
                     android:layout_centerHorizontal="true"
-                    android:layout_gravity="center"
-                    android:scaleType="center"
                     android:layout_marginTop="@dimen/_20sdp"
                     android:gravity="center|center_horizontal"
+                    android:scaleType="center"
                     android:src="@drawable/breezelogo" />
 
                 <com.rochakmasalefsm.widgets.AppCustomTextView
